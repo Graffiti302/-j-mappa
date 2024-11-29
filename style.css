@@ -1,16 +1,19 @@
 body {
-    background-color: aqua;
+    background-color: black;
 }
 h1 {
     font-style: oblique;
+    text-align: center;
     font-size: large;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
+    color: aqua;
 }
 p{
     font-style: oblique;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
 }
 b {
     color:red;
@@ -30,4 +33,9 @@ a {
     color:lightskyblue;
     font-weight: lighter;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+color: aqua;
+
+
 }
